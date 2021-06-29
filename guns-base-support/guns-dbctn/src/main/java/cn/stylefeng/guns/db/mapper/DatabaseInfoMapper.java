@@ -12,7 +12,7 @@ import java.util.Map;
 
 /**
  * <p>
- * 数据库信息表 Mapper 接口
+ * 数据库信息表 Mapper 接口  --tom
  * </p>
  *
  * @author stylefeng
